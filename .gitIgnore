@@ -1,0 +1,5 @@
+node_modules/
+.env
+myCit-IoT-API-workspace.code-workspace
+.vscode
+tmp
